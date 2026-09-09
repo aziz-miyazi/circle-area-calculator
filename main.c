@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int circleArea(float radius) {
+float circleArea(float radius) {
     return 3.1416 * radius * radius;
 }
 
