@@ -7,7 +7,7 @@ float circleArea(float radius) {
 int main() {
     float radius;
 
-    printf("Enter radius: ");
+    print("Enter radius: ");
     scanf("%f", &radius);
 
     printf("Area = %.2f\n", circleArea(radius));
