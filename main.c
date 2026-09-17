@@ -3,7 +3,7 @@
 float Area(float radius) {
     return 3.1416 * radius * radius;
 }
-//Hello added a comment here.
+
 int main() {
     float radius;
 
