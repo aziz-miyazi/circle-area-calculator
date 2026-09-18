@@ -4,7 +4,7 @@ float circleArea(float radius) {
     return 3.1416 * radius * radius;
 }
 
-int hello() {
+int main() {
     float radius;
 
     printf("Enter radius: ");
