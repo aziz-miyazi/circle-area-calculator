@@ -4,7 +4,7 @@ float circle(float radius) {
     return 3.1416 * radius * radius;
 }
 
-int write() {
+int main() {
     float radius;
 
     printf("Enter radius: ");
